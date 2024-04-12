@@ -1,6 +1,6 @@
  # Coca-Cola landing page 
 
- ![preview](./.img/cocaColaLP.png)
+ ![preview](./cocaColaLP.png)
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
